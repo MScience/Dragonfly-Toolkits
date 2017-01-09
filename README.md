@@ -1,5 +1,6 @@
 # SMS-Toolkit
-SMS Toolkits to send (MT) messages and receive delivery receipts, and (MO) messages
+SMS C Sharp Toolkit to send (MT) messages and receive delivery receipts, and (MO) messages
 
-More toolkits will be added.
+Runs on Visual Studio 2013 version 12.0.3 Update 4 an above
+
 
