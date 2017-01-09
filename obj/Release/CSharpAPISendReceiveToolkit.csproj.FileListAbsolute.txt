@@ -1,0 +1,10 @@
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\bin\Release\DragonflySMSToolkit.exe.config
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\bin\Release\DragonflySMSToolkit.exe
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\bin\Release\DragonflySMSToolkit.pdb
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\bin\Release\MScience.Sms.dll
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\obj\Release\DragonflySMSToolkit.ToolboxForm.resources
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\obj\Release\DragonflySMSToolkit.Properties.Resources.resources
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\obj\Release\CSharpAPISendReceiveToolkit.csproj.GenerateResource.Cache
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\obj\Release\DragonflySMSToolkit.exe
+C:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\obj\Release\DragonflySMSToolkit.pdb
+c:\SMS Toolkit\C#\CSharpAPITookKitv1\CSharpAPISendReceive\obj\Release\CSharpAPISendReceiveToolkit.csprojResolveAssemblyReference.cache
