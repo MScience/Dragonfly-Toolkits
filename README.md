@@ -1,8 +1,10 @@
 # SMS-Toolkit
 SMS Toolkits to send (MT) messages and receive delivery receipts, and (MO) messages
 
-Java toolkit
+Java toolkit version to run on Net Beans version 8.2
+Java version 1.8.0_45
 
+Please set you JDK to compile the toolkit
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
